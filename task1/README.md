@@ -46,8 +46,7 @@ Tableau Public (нужно использовать vpn). Результат п�
 |---------|-----------|--------|
 | 1. Импорт | динамика, рост, тепловая карта, индекс | https://public.tableau.com/app/profile/tatsiana.razhnova/viz/BelstatImport/sheet1 |
 | 2. Экспорт | те же четыре графика | https://public.tableau.com/app/profile/tatsiana.razhnova/viz/BelstatExport/Dashboard1 |
-| 3. Импорт vs экспорт и аномалии | общие товары, аномалии, кризисы | 
-https://public.tableau.com/app/profile/tatsiana.razhnova/viz/BelstatImportvsExport/sheet0 |
+| 3. Импорт vs экспорт и аномалии | общие товары, аномалии, кризисы | https://public.tableau.com/app/profile/tatsiana.razhnova/viz/BelstatImportvsExport/sheet0 |
 
 ## Методология
 
