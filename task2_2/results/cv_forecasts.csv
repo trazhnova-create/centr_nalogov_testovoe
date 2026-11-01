@@ -1,0 +1,421 @@
+﻿target,model,origin,year,h,actual,forecast
+import_qty,Naive (последнее значение),2014,2015,1,21921.0,19051.0
+import_qty,Naive (последнее значение),2014,2016,2,17916.0,19051.0
+import_qty,Naive (последнее значение),2014,2017,3,24780.0,19051.0
+import_qty,Naive (последнее значение),2015,2016,1,17916.0,21921.0
+import_qty,Naive (последнее значение),2015,2017,2,24780.0,21921.0
+import_qty,Naive (последнее значение),2015,2018,3,31129.0,21921.0
+import_qty,Naive (последнее значение),2016,2017,1,24780.0,17916.0
+import_qty,Naive (последнее значение),2016,2018,2,31129.0,17916.0
+import_qty,Naive (последнее значение),2016,2019,3,29533.0,17916.0
+import_qty,Naive (последнее значение),2017,2018,1,31129.0,24780.0
+import_qty,Naive (последнее значение),2017,2019,2,29533.0,24780.0
+import_qty,Naive (последнее значение),2017,2020,3,21759.0,24780.0
+import_qty,Naive (последнее значение),2018,2019,1,29533.0,31129.0
+import_qty,Naive (последнее значение),2018,2020,2,21759.0,31129.0
+import_qty,Naive (последнее значение),2018,2021,3,25061.0,31129.0
+import_qty,Drift,2014,2015,1,21921.0,21342.8
+import_qty,Drift,2014,2016,2,17916.0,23634.6
+import_qty,Drift,2014,2017,3,24780.0,25926.4
+import_qty,Drift,2015,2016,1,17916.0,24309.167
+import_qty,Drift,2015,2017,2,24780.0,26697.333
+import_qty,Drift,2015,2018,3,31129.0,29085.5
+import_qty,Drift,2016,2017,1,24780.0,19390.857
+import_qty,Drift,2016,2018,2,31129.0,20865.714
+import_qty,Drift,2016,2019,3,29533.0,22340.571
+import_qty,Drift,2017,2018,1,31129.0,26928.5
+import_qty,Drift,2017,2019,2,29533.0,29077.0
+import_qty,Drift,2017,2020,3,21759.0,31225.5
+import_qty,Drift,2018,2019,1,29533.0,33744.222
+import_qty,Drift,2018,2020,2,21759.0,36359.444
+import_qty,Drift,2018,2021,3,25061.0,38974.667
+import_qty,"ETS (Holt, затухающий тренд)",2014,2015,1,21921.0,18779.233
+import_qty,"ETS (Holt, затухающий тренд)",2014,2016,2,17916.0,19565.977
+import_qty,"ETS (Holt, затухающий тренд)",2014,2017,3,24780.0,20195.372
+import_qty,"ETS (Holt, затухающий тренд)",2015,2016,1,17916.0,24001.191
+import_qty,"ETS (Holt, затухающий тренд)",2015,2017,2,24780.0,26634.217
+import_qty,"ETS (Holt, затухающий тренд)",2015,2018,3,31129.0,28740.638
+import_qty,"ETS (Holt, затухающий тренд)",2016,2017,1,24780.0,20101.384
+import_qty,"ETS (Holt, затухающий тренд)",2016,2018,2,31129.0,20381.154
+import_qty,"ETS (Holt, затухающий тренд)",2016,2019,3,29533.0,20604.97
+import_qty,"ETS (Holt, затухающий тренд)",2017,2018,1,31129.0,24634.837
+import_qty,"ETS (Holt, затухающий тренд)",2017,2019,2,29533.0,26065.839
+import_qty,"ETS (Holt, затухающий тренд)",2017,2020,3,21759.0,27210.64
+import_qty,"ETS (Holt, затухающий тренд)",2018,2019,1,29533.0,27991.573
+import_qty,"ETS (Holt, затухающий тренд)",2018,2020,2,21759.0,29673.658
+import_qty,"ETS (Holt, затухающий тренд)",2018,2021,3,25061.0,31322.101
+import_qty,ARIMA (подбор по AIC),2014,2015,1,21921.0,19073.634
+import_qty,ARIMA (подбор по AIC),2014,2016,2,17916.0,19073.634
+import_qty,ARIMA (подбор по AIC),2014,2017,3,24780.0,19073.634
+import_qty,ARIMA (подбор по AIC),2015,2016,1,17916.0,26406.447
+import_qty,ARIMA (подбор по AIC),2015,2017,2,24780.0,31423.891
+import_qty,ARIMA (подбор по AIC),2015,2018,3,31129.0,37068.516
+import_qty,ARIMA (подбор по AIC),2016,2017,1,24780.0,18659.305
+import_qty,ARIMA (подбор по AIC),2016,2018,2,31129.0,19238.541
+import_qty,ARIMA (подбор по AIC),2016,2019,3,29533.0,19689.922
+import_qty,ARIMA (подбор по AIC),2017,2018,1,31129.0,28118.833
+import_qty,ARIMA (подбор по AIC),2017,2019,2,29533.0,31975.21
+import_qty,ARIMA (подбор по AIC),2017,2020,3,21759.0,36217.225
+import_qty,ARIMA (подбор по AIC),2018,2019,1,29533.0,34187.291
+import_qty,ARIMA (подбор по AIC),2018,2020,2,21759.0,39029.653
+import_qty,ARIMA (подбор по AIC),2018,2021,3,25061.0,44312.23
+import_qty,ARIMAX (+ курс BYN/USD),2014,2015,1,21921.0,22414.2
+import_qty,ARIMAX (+ курс BYN/USD),2014,2016,2,17916.0,24110.682
+import_qty,ARIMAX (+ курс BYN/USD),2014,2017,3,24780.0,23896.208
+import_qty,ARIMAX (+ курс BYN/USD),2015,2016,1,17916.0,26621.385
+import_qty,ARIMAX (+ курс BYN/USD),2015,2017,2,24780.0,32255.066
+import_qty,ARIMAX (+ курс BYN/USD),2015,2018,3,31129.0,38476.426
+import_qty,ARIMAX (+ курс BYN/USD),2016,2017,1,24780.0,18141.725
+import_qty,ARIMAX (+ курс BYN/USD),2016,2018,2,31129.0,18018.764
+import_qty,ARIMAX (+ курс BYN/USD),2016,2019,3,29533.0,17958.529
+import_qty,ARIMAX (+ курс BYN/USD),2017,2018,1,31129.0,28953.162
+import_qty,ARIMAX (+ курс BYN/USD),2017,2019,2,29533.0,33604.626
+import_qty,ARIMAX (+ курс BYN/USD),2017,2020,3,21759.0,38420.54
+import_qty,ARIMAX (+ курс BYN/USD),2018,2019,1,29533.0,35229.048
+import_qty,ARIMAX (+ курс BYN/USD),2018,2020,2,21759.0,40455.344
+import_qty,ARIMAX (+ курс BYN/USD),2018,2021,3,25061.0,46416.607
+import_qty,Gradient Boosting,2014,2015,1,21921.0,17481.502
+import_qty,Gradient Boosting,2014,2016,2,17916.0,18230.811
+import_qty,Gradient Boosting,2014,2017,3,24780.0,18651.607
+import_qty,Gradient Boosting,2015,2016,1,17916.0,24005.149
+import_qty,Gradient Boosting,2015,2017,2,24780.0,25851.07
+import_qty,Gradient Boosting,2015,2018,3,31129.0,27696.99
+import_qty,Gradient Boosting,2016,2017,1,24780.0,18062.856
+import_qty,Gradient Boosting,2016,2018,2,31129.0,18248.137
+import_qty,Gradient Boosting,2016,2019,3,29533.0,18433.419
+import_qty,Gradient Boosting,2017,2018,1,31129.0,21087.445
+import_qty,Gradient Boosting,2017,2019,2,29533.0,17346.556
+import_qty,Gradient Boosting,2017,2020,3,21759.0,22517.856
+import_qty,Gradient Boosting,2018,2019,1,29533.0,37312.046
+import_qty,Gradient Boosting,2018,2020,2,21759.0,38159.065
+import_qty,Gradient Boosting,2018,2021,3,25061.0,41645.948
+import_qty,Random Forest,2014,2015,1,21921.0,19222.525
+import_qty,Random Forest,2014,2016,2,17916.0,19694.934
+import_qty,Random Forest,2014,2017,3,24780.0,20167.344
+import_qty,Random Forest,2015,2016,1,17916.0,22820.121
+import_qty,Random Forest,2015,2017,2,24780.0,23719.242
+import_qty,Random Forest,2015,2018,3,31129.0,24618.363
+import_qty,Random Forest,2016,2017,1,24780.0,17882.902
+import_qty,Random Forest,2016,2018,2,31129.0,17849.805
+import_qty,Random Forest,2016,2019,3,29533.0,17816.708
+import_qty,Random Forest,2017,2018,1,31129.0,22729.555
+import_qty,Random Forest,2017,2019,2,29533.0,21187.997
+import_qty,Random Forest,2017,2020,3,21759.0,19382.462
+import_qty,Random Forest,2018,2019,1,29533.0,34104.453
+import_qty,Random Forest,2018,2020,2,21759.0,35075.675
+import_qty,Random Forest,2018,2021,3,25061.0,37902.712
+import_value,Naive (последнее значение),2014,2015,1,4225.8,4901.1
+import_value,Naive (последнее значение),2014,2016,2,4522.8,4901.1
+import_value,Naive (последнее значение),2014,2017,3,4585.0,4901.1
+import_value,Naive (последнее значение),2015,2016,1,4522.8,4225.8
+import_value,Naive (последнее значение),2015,2017,2,4585.0,4225.8
+import_value,Naive (последнее значение),2015,2018,3,3865.1,4225.8
+import_value,Naive (последнее значение),2016,2017,1,4585.0,4522.8
+import_value,Naive (последнее значение),2016,2018,2,3865.1,4522.8
+import_value,Naive (последнее значение),2016,2019,3,4279.3,4522.8
+import_value,Naive (последнее значение),2017,2018,1,3865.1,4585.0
+import_value,Naive (последнее значение),2017,2019,2,4279.3,4585.0
+import_value,Naive (последнее значение),2017,2020,3,5157.3,4585.0
+import_value,Naive (последнее значение),2018,2019,1,4279.3,3865.1
+import_value,Naive (последнее значение),2018,2020,2,5157.3,3865.1
+import_value,Naive (последнее значение),2018,2021,3,6936.0,3865.1
+import_value,Drift,2014,2015,1,4225.8,5578.18
+import_value,Drift,2014,2016,2,4522.8,6255.26
+import_value,Drift,2014,2017,3,4585.0,6932.34
+import_value,Drift,2015,2016,1,4522.8,4677.483
+import_value,Drift,2015,2017,2,4585.0,5129.167
+import_value,Drift,2015,2018,3,3865.1,5580.85
+import_value,Drift,2016,2017,1,4585.0,4952.386
+import_value,Drift,2016,2018,2,3865.1,5381.971
+import_value,Drift,2016,2019,3,4279.3,5811.557
+import_value,Drift,2017,2018,1,3865.1,4968.662
+import_value,Drift,2017,2019,2,4279.3,5352.325
+import_value,Drift,2017,2020,3,5157.3,5735.988
+import_value,Drift,2018,2019,1,4279.3,4126.144
+import_value,Drift,2018,2020,2,5157.3,4387.189
+import_value,Drift,2018,2021,3,6936.0,4648.233
+import_value,"ETS (Holt, затухающий тренд)",2014,2015,1,4225.8,4613.296
+import_value,"ETS (Holt, затухающий тренд)",2014,2016,2,4522.8,5110.83
+import_value,"ETS (Holt, затухающий тренд)",2014,2017,3,4585.0,5598.413
+import_value,"ETS (Holt, затухающий тренд)",2015,2016,1,4522.8,4901.518
+import_value,"ETS (Holt, затухающий тренд)",2015,2017,2,4585.0,5353.323
+import_value,"ETS (Holt, затухающий тренд)",2015,2018,3,3865.1,5796.093
+import_value,"ETS (Holt, затухающий тренд)",2016,2017,1,4585.0,4455.47
+import_value,"ETS (Holt, затухающий тренд)",2016,2018,2,3865.1,4602.267
+import_value,"ETS (Holt, затухающий тренд)",2016,2019,3,4279.3,4726.303
+import_value,"ETS (Holt, затухающий тренд)",2017,2018,1,3865.1,5144.757
+import_value,"ETS (Holt, затухающий тренд)",2017,2019,2,4279.3,5419.644
+import_value,"ETS (Holt, затухающий тренд)",2017,2020,3,5157.3,5675.569
+import_value,"ETS (Holt, затухающий тренд)",2018,2019,1,4279.3,4848.338
+import_value,"ETS (Holt, затухающий тренд)",2018,2020,2,5157.3,5042.734
+import_value,"ETS (Holt, затухающий тренд)",2018,2021,3,6936.0,5224.955
+import_value,ARIMA (подбор по AIC),2014,2015,1,4225.8,5070.806
+import_value,ARIMA (подбор по AIC),2014,2016,2,4522.8,5070.806
+import_value,ARIMA (подбор по AIC),2014,2017,3,4585.0,5070.806
+import_value,ARIMA (подбор по AIC),2015,2016,1,4522.8,4254.413
+import_value,ARIMA (подбор по AIC),2015,2017,2,4585.0,4254.413
+import_value,ARIMA (подбор по AIC),2015,2018,3,3865.1,4254.413
+import_value,ARIMA (подбор по AIC),2016,2017,1,4585.0,5833.098
+import_value,ARIMA (подбор по AIC),2016,2018,2,3865.1,6748.898
+import_value,ARIMA (подбор по AIC),2016,2019,3,4279.3,7766.453
+import_value,ARIMA (подбор по AIC),2017,2018,1,3865.1,5899.004
+import_value,ARIMA (подбор по AIC),2017,2019,2,4279.3,6689.598
+import_value,ARIMA (подбор по AIC),2017,2020,3,5157.3,7559.25
+import_value,ARIMA (подбор по AIC),2018,2019,1,4279.3,3919.226
+import_value,ARIMA (подбор по AIC),2018,2020,2,5157.3,3919.226
+import_value,ARIMA (подбор по AIC),2018,2021,3,6936.0,3919.226
+import_value,ARIMAX (+ курс BYN/USD),2014,2015,1,4225.8,5983.115
+import_value,ARIMAX (+ курс BYN/USD),2014,2016,2,4522.8,6522.709
+import_value,ARIMAX (+ курс BYN/USD),2014,2017,3,4585.0,6454.492
+import_value,ARIMAX (+ курс BYN/USD),2015,2016,1,4522.8,5683.603
+import_value,ARIMAX (+ курс BYN/USD),2015,2017,2,4585.0,6762.077
+import_value,ARIMAX (+ курс BYN/USD),2015,2018,3,3865.1,7971.549
+import_value,ARIMAX (+ курс BYN/USD),2016,2017,1,4585.0,4587.262
+import_value,ARIMAX (+ курс BYN/USD),2016,2018,2,3865.1,4664.957
+import_value,ARIMAX (+ курс BYN/USD),2016,2019,3,4279.3,4703.018
+import_value,ARIMAX (+ курс BYN/USD),2017,2018,1,3865.1,5338.245
+import_value,ARIMAX (+ курс BYN/USD),2017,2019,2,4279.3,5750.893
+import_value,ARIMAX (+ курс BYN/USD),2017,2020,3,5157.3,6305.892
+import_value,ARIMAX (+ курс BYN/USD),2018,2019,1,4279.3,4274.476
+import_value,ARIMAX (+ курс BYN/USD),2018,2020,2,5157.3,4393.845
+import_value,ARIMAX (+ курс BYN/USD),2018,2021,3,6936.0,4329.251
+import_value,Gradient Boosting,2014,2015,1,4225.8,5110.968
+import_value,Gradient Boosting,2014,2016,2,4522.8,6799.335
+import_value,Gradient Boosting,2014,2017,3,4585.0,7495.521
+import_value,Gradient Boosting,2015,2016,1,4522.8,5435.401
+import_value,Gradient Boosting,2015,2017,2,4585.0,5149.273
+import_value,Gradient Boosting,2015,2018,3,3865.1,6105.778
+import_value,Gradient Boosting,2016,2017,1,4585.0,5010.679
+import_value,Gradient Boosting,2016,2018,2,3865.1,5511.137
+import_value,Gradient Boosting,2016,2019,3,4279.3,6011.596
+import_value,Gradient Boosting,2017,2018,1,3865.1,4679.587
+import_value,Gradient Boosting,2017,2019,2,4279.3,4774.174
+import_value,Gradient Boosting,2017,2020,3,5157.3,5250.557
+import_value,Gradient Boosting,2018,2019,1,4279.3,3777.181
+import_value,Gradient Boosting,2018,2020,2,5157.3,4240.18
+import_value,Gradient Boosting,2018,2021,3,6936.0,4115.727
+import_value,Random Forest,2014,2015,1,4225.8,5413.672
+import_value,Random Forest,2014,2016,2,4522.8,5993.212
+import_value,Random Forest,2014,2017,3,4585.0,6572.752
+import_value,Random Forest,2015,2016,1,4522.8,4823.174
+import_value,Random Forest,2015,2017,2,4585.0,5420.547
+import_value,Random Forest,2015,2018,3,3865.1,6017.921
+import_value,Random Forest,2016,2017,1,4585.0,5115.561
+import_value,Random Forest,2016,2018,2,3865.1,5693.315
+import_value,Random Forest,2016,2019,3,4279.3,6271.069
+import_value,Random Forest,2017,2018,1,3865.1,4989.855
+import_value,Random Forest,2017,2019,2,4279.3,5394.71
+import_value,Random Forest,2017,2020,3,5157.3,5802.34
+import_value,Random Forest,2018,2019,1,4279.3,3997.609
+import_value,Random Forest,2018,2020,2,5157.3,4216.339
+import_value,Random Forest,2018,2021,3,6936.0,4328.74
+export_qty,Naive (последнее значение),2014,2015,1,512.0,289.0
+export_qty,Naive (последнее значение),2014,2016,2,83.0,289.0
+export_qty,Naive (последнее значение),2014,2017,3,297.0,289.0
+export_qty,Naive (последнее значение),2015,2016,1,83.0,512.0
+export_qty,Naive (последнее значение),2015,2017,2,297.0,512.0
+export_qty,Naive (последнее значение),2015,2018,3,340.0,512.0
+export_qty,Naive (последнее значение),2016,2017,1,297.0,83.0
+export_qty,Naive (последнее значение),2016,2018,2,340.0,83.0
+export_qty,Naive (последнее значение),2016,2019,3,59.5,83.0
+export_qty,Naive (последнее значение),2017,2018,1,340.0,297.0
+export_qty,Naive (последнее значение),2017,2019,2,59.5,297.0
+export_qty,Naive (последнее значение),2017,2020,3,15.319,297.0
+export_qty,Naive (последнее значение),2018,2019,1,59.5,340.0
+export_qty,Naive (последнее значение),2018,2020,2,15.319,340.0
+export_qty,Naive (последнее значение),2018,2021,3,13.499,340.0
+export_qty,Drift,2014,2015,1,512.0,336.667
+export_qty,Drift,2014,2016,2,83.0,384.333
+export_qty,Drift,2014,2017,3,297.0,432.0
+export_qty,Drift,2015,2016,1,83.0,584.714
+export_qty,Drift,2015,2017,2,297.0,657.429
+export_qty,Drift,2015,2018,3,340.0,730.143
+export_qty,Drift,2016,2017,1,297.0,93.0
+export_qty,Drift,2016,2018,2,340.0,103.0
+export_qty,Drift,2016,2019,3,59.5,113.0
+export_qty,Drift,2017,2018,1,340.0,329.667
+export_qty,Drift,2017,2019,2,59.5,362.333
+export_qty,Drift,2017,2020,3,15.319,395.0
+export_qty,Drift,2018,2019,1,59.5,373.7
+export_qty,Drift,2018,2020,2,15.319,407.4
+export_qty,Drift,2018,2021,3,13.499,441.1
+export_qty,"ETS (Holt, затухающий тренд)",2014,2015,1,512.0,179.691
+export_qty,"ETS (Holt, затухающий тренд)",2014,2016,2,83.0,205.343
+export_qty,"ETS (Holt, затухающий тренд)",2014,2017,3,297.0,230.482
+export_qty,"ETS (Holt, затухающий тренд)",2015,2016,1,83.0,722.394
+export_qty,"ETS (Holt, затухающий тренд)",2015,2017,2,297.0,972.582
+export_qty,"ETS (Holt, затухающий тренд)",2015,2018,3,340.0,1217.766
+export_qty,"ETS (Holt, затухающий тренд)",2016,2017,1,297.0,288.234
+export_qty,"ETS (Holt, затухающий тренд)",2016,2018,2,340.0,318.869
+export_qty,"ETS (Holt, затухающий тренд)",2016,2019,3,59.5,348.891
+export_qty,"ETS (Holt, затухающий тренд)",2017,2018,1,340.0,318.14
+export_qty,"ETS (Holt, затухающий тренд)",2017,2019,2,59.5,347.646
+export_qty,"ETS (Holt, затухающий тренд)",2017,2020,3,15.319,376.563
+export_qty,"ETS (Holt, затухающий тренд)",2018,2019,1,59.5,358.809
+export_qty,"ETS (Holt, затухающий тренд)",2018,2020,2,15.319,389.334
+export_qty,"ETS (Holt, затухающий тренд)",2018,2021,3,13.499,419.248
+export_qty,ARIMA (подбор по AIC),2014,2015,1,512.0,253.409
+export_qty,ARIMA (подбор по AIC),2014,2016,2,83.0,325.579
+export_qty,ARIMA (подбор по AIC),2014,2017,3,297.0,406.771
+export_qty,ARIMA (подбор по AIC),2015,2016,1,83.0,708.615
+export_qty,ARIMA (подбор по AIC),2015,2017,2,297.0,926.342
+export_qty,ARIMA (подбор по AIC),2015,2018,3,340.0,1168.26
+export_qty,ARIMA (подбор по AIC),2016,2017,1,297.0,201.482
+export_qty,ARIMA (подбор по AIC),2016,2018,2,340.0,201.482
+export_qty,ARIMA (подбор по AIC),2016,2019,3,59.5,201.482
+export_qty,ARIMA (подбор по AIC),2017,2018,1,340.0,395.284
+export_qty,ARIMA (подбор по AIC),2017,2019,2,59.5,467.159
+export_qty,ARIMA (подбор по AIC),2017,2020,3,15.319,545.567
+export_qty,ARIMA (подбор по AIC),2018,2019,1,59.5,435.753
+export_qty,ARIMA (подбор по AIC),2018,2020,2,15.319,507.106
+export_qty,ARIMA (подбор по AIC),2018,2021,3,13.499,584.405
+export_qty,ARIMAX (+ курс BYN/USD),2014,2015,1,512.0,317.008
+export_qty,ARIMAX (+ курс BYN/USD),2014,2016,2,83.0,470.914
+export_qty,ARIMAX (+ курс BYN/USD),2014,2017,3,297.0,712.171
+export_qty,ARIMAX (+ курс BYN/USD),2015,2016,1,83.0,572.951
+export_qty,ARIMAX (+ курс BYN/USD),2015,2017,2,297.0,565.79
+export_qty,ARIMAX (+ курс BYN/USD),2015,2018,3,340.0,579.284
+export_qty,ARIMAX (+ курс BYN/USD),2016,2017,1,297.0,253.212
+export_qty,ARIMAX (+ курс BYN/USD),2016,2018,2,340.0,259.66
+export_qty,ARIMAX (+ курс BYN/USD),2016,2019,3,59.5,262.819
+export_qty,ARIMAX (+ курс BYN/USD),2017,2018,1,340.0,271.93
+export_qty,ARIMAX (+ курс BYN/USD),2017,2019,2,59.5,275.303
+export_qty,ARIMAX (+ курс BYN/USD),2017,2020,3,15.319,295.247
+export_qty,ARIMAX (+ курс BYN/USD),2018,2019,1,59.5,290.938
+export_qty,ARIMAX (+ курс BYN/USD),2018,2020,2,15.319,312.512
+export_qty,ARIMAX (+ курс BYN/USD),2018,2021,3,13.499,318.118
+export_qty,Gradient Boosting,2014,2015,1,512.0,486.763
+export_qty,Gradient Boosting,2014,2016,2,83.0,694.91
+export_qty,Gradient Boosting,2014,2017,3,297.0,851.797
+export_qty,Gradient Boosting,2015,2016,1,83.0,727.731
+export_qty,Gradient Boosting,2015,2017,2,297.0,907.853
+export_qty,Gradient Boosting,2015,2018,3,340.0,1086.158
+export_qty,Gradient Boosting,2016,2017,1,297.0,0.0
+export_qty,Gradient Boosting,2016,2018,2,340.0,0.0
+export_qty,Gradient Boosting,2016,2019,3,59.5,0.0
+export_qty,Gradient Boosting,2017,2018,1,340.0,197.021
+export_qty,Gradient Boosting,2017,2019,2,59.5,198.663
+export_qty,Gradient Boosting,2017,2020,3,15.319,239.293
+export_qty,Gradient Boosting,2018,2019,1,59.5,404.612
+export_qty,Gradient Boosting,2018,2020,2,15.319,89.408
+export_qty,Gradient Boosting,2018,2021,3,13.499,234.275
+export_qty,Random Forest,2014,2015,1,512.0,305.658
+export_qty,Random Forest,2014,2016,2,83.0,335.037
+export_qty,Random Forest,2014,2017,3,297.0,359.505
+export_qty,Random Forest,2015,2016,1,83.0,617.152
+export_qty,Random Forest,2015,2017,2,297.0,709.983
+export_qty,Random Forest,2015,2018,3,340.0,802.815
+export_qty,Random Forest,2016,2017,1,297.0,87.943
+export_qty,Random Forest,2016,2018,2,340.0,84.75
+export_qty,Random Forest,2016,2019,3,59.5,81.556
+export_qty,Random Forest,2017,2018,1,340.0,266.02
+export_qty,Random Forest,2017,2019,2,59.5,336.901
+export_qty,Random Forest,2017,2020,3,15.319,324.729
+export_qty,Random Forest,2018,2019,1,59.5,321.237
+export_qty,Random Forest,2018,2020,2,15.319,329.238
+export_qty,Random Forest,2018,2021,3,13.499,348.388
+export_value,Naive (последнее значение),2014,2015,1,95.1,73.2
+export_value,Naive (последнее значение),2014,2016,2,14.0,73.2
+export_value,Naive (последнее значение),2014,2017,3,63.7,73.2
+export_value,Naive (последнее значение),2015,2016,1,14.0,95.1
+export_value,Naive (последнее значение),2015,2017,2,63.7,95.1
+export_value,Naive (последнее значение),2015,2018,3,75.4,95.1
+export_value,Naive (последнее значение),2016,2017,1,63.7,14.0
+export_value,Naive (последнее значение),2016,2018,2,75.4,14.0
+export_value,Naive (последнее значение),2016,2019,3,18.5,14.0
+export_value,Naive (последнее значение),2017,2018,1,75.4,63.7
+export_value,Naive (последнее значение),2017,2019,2,18.5,63.7
+export_value,Naive (последнее значение),2017,2020,3,5.9,63.7
+export_value,Naive (последнее значение),2018,2019,1,18.5,75.4
+export_value,Naive (последнее значение),2018,2020,2,5.9,75.4
+export_value,Naive (последнее значение),2018,2021,3,5.3,75.4
+export_value,Drift,2014,2015,1,95.1,85.233
+export_value,Drift,2014,2016,2,14.0,97.267
+export_value,Drift,2014,2017,3,63.7,109.3
+export_value,Drift,2015,2016,1,14.0,108.543
+export_value,Drift,2015,2017,2,63.7,121.986
+export_value,Drift,2015,2018,3,75.4,135.429
+export_value,Drift,2016,2017,1,63.7,15.625
+export_value,Drift,2016,2018,2,75.4,17.25
+export_value,Drift,2016,2019,3,18.5,18.875
+export_value,Drift,2017,2018,1,75.4,70.667
+export_value,Drift,2017,2019,2,18.5,77.633
+export_value,Drift,2017,2020,3,5.9,84.6
+export_value,Drift,2018,2019,1,18.5,82.84
+export_value,Drift,2018,2020,2,5.9,90.28
+export_value,Drift,2018,2021,3,5.3,97.72
+export_value,"ETS (Holt, затухающий тренд)",2014,2015,1,95.1,50.839
+export_value,"ETS (Holt, затухающий тренд)",2014,2016,2,14.0,58.74
+export_value,"ETS (Holt, затухающий тренд)",2014,2017,3,63.7,66.483
+export_value,"ETS (Holt, затухающий тренд)",2015,2016,1,14.0,79.999
+export_value,"ETS (Holt, затухающий тренд)",2015,2017,2,63.7,91.006
+export_value,"ETS (Holt, затухающий тренд)",2015,2018,3,75.4,101.793
+export_value,"ETS (Holt, затухающий тренд)",2016,2017,1,63.7,62.954
+export_value,"ETS (Holt, затухающий тренд)",2016,2018,2,75.4,69.89
+export_value,"ETS (Holt, затухающий тренд)",2016,2019,3,18.5,76.685
+export_value,"ETS (Holt, затухающий тренд)",2017,2018,1,75.4,70.197
+export_value,"ETS (Holt, затухающий тренд)",2017,2019,2,18.5,77.039
+export_value,"ETS (Holt, затухающий тренд)",2017,2020,3,5.9,83.744
+export_value,"ETS (Holt, затухающий тренд)",2018,2019,1,18.5,78.834
+export_value,"ETS (Holt, затухающий тренд)",2018,2020,2,5.9,85.741
+export_value,"ETS (Holt, затухающий тренд)",2018,2021,3,5.3,92.509
+export_value,ARIMA (подбор по AIC),2014,2015,1,95.1,19.065
+export_value,ARIMA (подбор по AIC),2014,2016,2,14.0,135.525
+export_value,ARIMA (подбор по AIC),2014,2017,3,63.7,14.232
+export_value,ARIMA (подбор по AIC),2015,2016,1,14.0,115.245
+export_value,ARIMA (подбор по AIC),2015,2017,2,63.7,146.955
+export_value,ARIMA (подбор по AIC),2015,2018,3,75.4,182.188
+export_value,ARIMA (подбор по AIC),2016,2017,1,63.7,41.788
+export_value,ARIMA (подбор по AIC),2016,2018,2,75.4,41.788
+export_value,ARIMA (подбор по AIC),2016,2019,3,18.5,41.788
+export_value,ARIMA (подбор по AIC),2017,2018,1,75.4,83.918
+export_value,ARIMA (подбор по AIC),2017,2019,2,18.5,99.343
+export_value,ARIMA (подбор по AIC),2017,2020,3,5.9,116.171
+export_value,ARIMA (подбор по AIC),2018,2019,1,18.5,94.502
+export_value,ARIMA (подбор по AIC),2018,2020,2,5.9,110.242
+export_value,ARIMA (подбор по AIC),2018,2021,3,5.3,127.293
+export_value,ARIMAX (+ курс BYN/USD),2014,2015,1,95.1,0.0
+export_value,ARIMAX (+ курс BYN/USD),2014,2016,2,14.0,239.607
+export_value,ARIMAX (+ курс BYN/USD),2014,2017,3,63.7,0.0
+export_value,ARIMAX (+ курс BYN/USD),2015,2016,1,14.0,129.009
+export_value,ARIMAX (+ курс BYN/USD),2015,2017,2,63.7,181.754
+export_value,ARIMAX (+ курс BYN/USD),2015,2018,3,75.4,237.356
+export_value,ARIMAX (+ курс BYN/USD),2016,2017,1,63.7,55.539
+export_value,ARIMAX (+ курс BYN/USD),2016,2018,2,75.4,57.049
+export_value,ARIMAX (+ курс BYN/USD),2016,2019,3,18.5,57.788
+export_value,ARIMAX (+ курс BYN/USD),2017,2018,1,75.4,59.34
+export_value,ARIMAX (+ курс BYN/USD),2017,2019,2,18.5,60.12
+export_value,ARIMAX (+ курс BYN/USD),2017,2020,3,5.9,64.73
+export_value,ARIMAX (+ курс BYN/USD),2018,2019,1,18.5,63.812
+export_value,ARIMAX (+ курс BYN/USD),2018,2020,2,5.9,68.808
+export_value,ARIMAX (+ курс BYN/USD),2018,2021,3,5.3,70.107
+export_value,Gradient Boosting,2014,2015,1,95.1,104.423
+export_value,Gradient Boosting,2014,2016,2,14.0,131.423
+export_value,Gradient Boosting,2014,2017,3,63.7,140.556
+export_value,Gradient Boosting,2015,2016,1,14.0,103.253
+export_value,Gradient Boosting,2015,2017,2,63.7,104.131
+export_value,Gradient Boosting,2015,2018,3,75.4,118.394
+export_value,Gradient Boosting,2016,2017,1,63.7,7.615
+export_value,Gradient Boosting,2016,2018,2,75.4,0.0
+export_value,Gradient Boosting,2016,2019,3,18.5,0.0
+export_value,Gradient Boosting,2017,2018,1,75.4,31.289
+export_value,Gradient Boosting,2017,2019,2,18.5,45.728
+export_value,Gradient Boosting,2017,2020,3,5.9,33.778
+export_value,Gradient Boosting,2018,2019,1,18.5,73.69
+export_value,Gradient Boosting,2018,2020,2,5.9,83.576
+export_value,Gradient Boosting,2018,2021,3,5.3,68.92
+export_value,Random Forest,2014,2015,1,95.1,85.894
+export_value,Random Forest,2014,2016,2,14.0,97.742
+export_value,Random Forest,2014,2017,3,63.7,105.441
+export_value,Random Forest,2015,2016,1,14.0,113.198
+export_value,Random Forest,2015,2017,2,63.7,126.849
+export_value,Random Forest,2015,2018,3,75.4,140.5
+export_value,Random Forest,2016,2017,1,63.7,23.924
+export_value,Random Forest,2016,2018,2,75.4,12.783
+export_value,Random Forest,2016,2019,3,18.5,23.22
+export_value,Random Forest,2017,2018,1,75.4,54.133
+export_value,Random Forest,2017,2019,2,18.5,70.265
+export_value,Random Forest,2017,2020,3,5.9,57.247
+export_value,Random Forest,2018,2019,1,18.5,60.932
+export_value,Random Forest,2018,2020,2,5.9,83.781
+export_value,Random Forest,2018,2021,3,5.3,69.008

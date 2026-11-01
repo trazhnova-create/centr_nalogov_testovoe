@@ -1,0 +1,13 @@
+﻿target,model,group,year,forecast,lo80,hi80,is_best
+import_qty,"ETS (Holt, затухающий тренд)",stat,2022,29801.51,24547.03,35055.99,True
+import_qty,"ETS (Holt, затухающий тренд)",stat,2023,31128.36,25873.88,36382.84,True
+import_qty,"ETS (Holt, затухающий тренд)",stat,2024,32420.7,27166.22,37675.18,True
+import_value,"ETS (Holt, затухающий тренд)",stat,2022,5977.18,5027.89,6926.47,True
+import_value,"ETS (Holt, затухающий тренд)",stat,2023,6243.77,5294.48,7193.06,True
+import_value,"ETS (Holt, затухающий тренд)",stat,2024,6505.02,5555.73,7454.31,True
+export_qty,Naive (последнее значение),baseline,2022,13.5,0.0,357.43,True
+export_qty,Naive (последнее значение),baseline,2023,13.5,0.0,357.43,True
+export_qty,Naive (последнее значение),baseline,2024,13.5,0.0,357.43,True
+export_value,Naive (последнее значение),baseline,2022,5.3,0.0,70.4,True
+export_value,Naive (последнее значение),baseline,2023,5.3,0.0,75.81,True
+export_value,Naive (последнее значение),baseline,2024,5.3,0.0,75.81,True

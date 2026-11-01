@@ -1,0 +1,85 @@
+﻿target,model,group,year,forecast,lo80,hi80,is_best
+import_qty,Naive (последнее значение),baseline,2022,25061.0,18934.78,31187.22,False
+import_qty,Naive (последнее значение),baseline,2023,25061.0,15226.3,34895.7,False
+import_qty,Naive (последнее значение),baseline,2024,25061.0,15158.44,34963.56,False
+import_qty,Drift,baseline,2022,26516.75,20626.17,32407.33,False
+import_qty,Drift,baseline,2023,27972.5,17172.11,38772.89,False
+import_qty,Drift,baseline,2024,29428.25,18627.86,40228.64,False
+import_qty,"ETS (Holt, затухающий тренд)",stat,2022,29801.51,24547.03,35055.99,True
+import_qty,"ETS (Holt, затухающий тренд)",stat,2023,31128.36,25873.88,36382.84,True
+import_qty,"ETS (Holt, затухающий тренд)",stat,2024,32420.7,27166.22,37675.18,True
+import_qty,ARIMA (подбор по AIC),stat,2022,25294.09,19958.29,30629.89,False
+import_qty,ARIMA (подбор по AIC),stat,2023,25487.11,18367.92,32606.3,False
+import_qty,ARIMA (подбор по AIC),stat,2024,25646.94,17376.92,33916.96,False
+import_qty,ARIMAX (+ курс BYN/USD),stat,2022,28290.35,22732.32,33848.37,False
+import_qty,ARIMAX (+ курс BYN/USD),stat,2023,29932.67,24314.47,35550.86,False
+import_qty,ARIMAX (+ курс BYN/USD),stat,2024,31209.72,25531.99,36887.45,False
+import_qty,Gradient Boosting,ml,2022,27230.37,17930.98,36529.76,False
+import_qty,Gradient Boosting,ml,2023,22306.18,8447.89,36164.48,False
+import_qty,Gradient Boosting,ml,2024,24428.37,10570.07,38286.66,False
+import_qty,Random Forest,ml,2022,26373.44,18892.79,33854.1,False
+import_qty,Random Forest,ml,2023,25481.65,13629.8,37333.5,False
+import_qty,Random Forest,ml,2024,26780.39,14928.53,38632.24,False
+import_value,Naive (последнее значение),baseline,2022,6936.0,6298.3,7573.7,False
+import_value,Naive (последнее значение),baseline,2023,6936.0,6035.6,7836.4,False
+import_value,Naive (последнее значение),baseline,2024,6936.0,5119.27,8752.73,False
+import_value,Drift,baseline,2022,7387.69,6357.75,8417.63,False
+import_value,Drift,baseline,2023,7839.38,6286.28,9392.49,False
+import_value,Drift,baseline,2024,8291.08,5972.1,10610.05,False
+import_value,"ETS (Holt, затухающий тренд)",stat,2022,5977.18,5027.89,6926.47,True
+import_value,"ETS (Holt, затухающий тренд)",stat,2023,6243.77,5294.48,7193.06,True
+import_value,"ETS (Holt, затухающий тренд)",stat,2024,6505.02,5555.73,7454.31,True
+import_value,ARIMA (подбор по AIC),stat,2022,7745.56,6701.4,8789.72,False
+import_value,ARIMA (подбор по AIC),stat,2023,8632.37,7165.74,10099.01,False
+import_value,ARIMA (подбор по AIC),stat,2024,9582.53,7790.39,11374.67,False
+import_value,ARIMAX (+ курс BYN/USD),stat,2022,7742.78,6698.79,8786.76,False
+import_value,ARIMAX (+ курс BYN/USD),stat,2023,8628.54,7162.67,10094.4,False
+import_value,ARIMAX (+ курс BYN/USD),stat,2024,9576.77,7785.79,11367.75,False
+import_value,Gradient Boosting,ml,2022,7459.14,6515.08,8403.2,False
+import_value,Gradient Boosting,ml,2023,8605.9,6858.36,10353.44,False
+import_value,Gradient Boosting,ml,2024,10200.17,7365.82,13034.52,False
+import_value,Random Forest,ml,2022,7290.75,6277.2,8304.3,False
+import_value,Random Forest,ml,2023,7804.16,6149.74,9458.58,False
+import_value,Random Forest,ml,2024,8476.9,5928.69,11025.11,False
+export_qty,Naive (последнее значение),baseline,2022,13.5,0.0,357.43,True
+export_qty,Naive (последнее значение),baseline,2023,13.5,0.0,357.43,True
+export_qty,Naive (последнее значение),baseline,2024,13.5,0.0,357.43,True
+export_qty,Drift,baseline,2022,14.31,0.0,387.03,False
+export_qty,Drift,baseline,2023,15.11,0.0,429.34,False
+export_qty,Drift,baseline,2024,15.92,0.0,430.14,False
+export_qty,"ETS (Holt, затухающий тренд)",stat,2022,187.27,0.0,376.88,False
+export_qty,"ETS (Holt, затухающий тренд)",stat,2023,188.98,0.0,378.58,False
+export_qty,"ETS (Holt, затухающий тренд)",stat,2024,190.34,0.74,379.94,False
+export_qty,ARIMA (подбор по AIC),stat,2022,61.98,0.0,294.01,False
+export_qty,ARIMA (подбор по AIC),stat,2023,61.98,0.0,318.2,False
+export_qty,ARIMA (подбор по AIC),stat,2024,61.98,0.0,340.29,False
+export_qty,ARIMAX (+ курс BYN/USD),stat,2022,0.0,0.0,157.47,False
+export_qty,ARIMAX (+ курс BYN/USD),stat,2023,0.0,0.0,110.48,False
+export_qty,ARIMAX (+ курс BYN/USD),stat,2024,0.0,0.0,44.89,False
+export_qty,Gradient Boosting,ml,2022,21.26,0.0,481.24,False
+export_qty,Gradient Boosting,ml,2023,36.64,0.0,576.75,False
+export_qty,Gradient Boosting,ml,2024,32.85,0.0,596.46,False
+export_qty,Random Forest,ml,2022,14.86,0.0,397.44,False
+export_qty,Random Forest,ml,2023,21.72,0.0,416.62,False
+export_qty,Random Forest,ml,2024,16.71,0.0,411.61,False
+export_value,Naive (последнее значение),baseline,2022,5.3,0.0,70.4,True
+export_value,Naive (последнее значение),baseline,2023,5.3,0.0,75.81,True
+export_value,Naive (последнее значение),baseline,2024,5.3,0.0,75.81,True
+export_value,Drift,baseline,2022,5.63,0.0,77.01,False
+export_value,Drift,baseline,2023,5.96,0.0,95.36,False
+export_value,Drift,baseline,2024,6.29,0.0,95.69,False
+export_value,"ETS (Holt, затухающий тренд)",stat,2022,42.25,4.95,79.55,False
+export_value,"ETS (Holt, затухающий тренд)",stat,2023,42.66,5.36,79.96,False
+export_value,"ETS (Holt, затухающий тренд)",stat,2024,42.99,5.69,80.28,False
+export_value,ARIMA (подбор по AIC),stat,2022,14.9,0.0,61.81,False
+export_value,ARIMA (подбор по AIC),stat,2023,14.9,0.0,67.13,False
+export_value,ARIMA (подбор по AIC),stat,2024,14.9,0.0,71.96,False
+export_value,ARIMAX (+ курс BYN/USD),stat,2022,0.0,0.0,31.51,False
+export_value,ARIMAX (+ курс BYN/USD),stat,2023,0.0,0.0,21.52,False
+export_value,ARIMAX (+ курс BYN/USD),stat,2024,0.0,0.0,7.27,False
+export_value,Gradient Boosting,ml,2022,6.03,0.0,78.96,False
+export_value,Gradient Boosting,ml,2023,8.84,0.0,104.54,False
+export_value,Gradient Boosting,ml,2024,3.92,0.0,99.62,False
+export_value,Random Forest,ml,2022,6.77,0.0,74.0,False
+export_value,Random Forest,ml,2023,7.71,0.0,95.89,False
+export_value,Random Forest,ml,2024,7.11,0.0,95.28,False
